@@ -33,7 +33,7 @@ function Footer() {
     <footer className="site-footer">
       <div className="container">
         <span>© {new Date().getFullYear()} Contoso Electronics. All rights reserved.</span>
-        <span className="footer-tagline">Built with ❤️ for demo purposes</span>
+        <span className="footer-tagline">The app built for demo and lab purposes</span>
       </div>
     </footer>
   );
