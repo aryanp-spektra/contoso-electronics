@@ -8,4 +8,7 @@ const productSchema = new mongoose.Schema({
   createdAt: { type: Date, default: Date.now }
 });
 
+// Cosmos DB (MongoDB API) requires explicit indexes for sort fields
+productSchema.index({ createdAt: -1 });
+
 module.exports = mongoose.model('Product', productSchema);
