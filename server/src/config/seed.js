@@ -23,7 +23,7 @@ const defaultProducts = [
   name: 'Arc Mouse',
   description: 'Sleek, ergonomic mouse that snaps flat for easy portability. Bluetooth connectivity.',
   price: 79.99,
-  imageUrl: 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8953/8953983_sd.jpg'
+  imageUrl: 'https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-SurfA-Mavis-ELG-00001-b00?qlt=90&wid=1253&hei=705&extendN=0.12,0.12,0.12,0.12&bgc=FFFFFFFF&fmt=jpg'
 },
 {
   name: 'Surface Headphones 2+',
